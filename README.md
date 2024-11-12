@@ -1,6 +1,6 @@
-# Eliza
+# Maya
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="./docs/static/img/ai06z.jepg" alt="Maya Banner" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
